@@ -24,7 +24,7 @@ I know... One would think that the ordeal could be easily avoided if everything 
 Call me masochist but I beleve that overcoming the  limitations presented by the Ipad and Pi and come up with something that works is interesting enough to justify the oddity of the setup: after all, it's when facing adversity that creativity is fueled! 
 And to be frank, it's actually stimulating and focusing to work from IpadOS.
 
-Let me know if you would a tutorial on the setup.
+Let me know if you would like a tutorial on the setup.
 
 ---
 Next steps: 
@@ -33,5 +33,5 @@ Next steps:
 - Explore IOS shortcut to create new posts / control Jekyll
 
 ---
+![Publishing setup](/marcmagn1/assets/publishing_setup.png)
 
-![](/Images/HelloWorld.png)
