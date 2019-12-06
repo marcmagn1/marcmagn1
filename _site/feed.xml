@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2019-12-06T13:30:48+00:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">Marcmagn1</title><subtitle>Marcmagn1's personal blog - geekeries, interesting tidbits from light-programmming to travels, including (but not limited to) Infosec, Product Management, OSINT, Raspberry Pi... </subtitle><entry><title type="html">Hello, World! (From Jekyll on a Pi controlled locally by an Ipad)</title><link href="http://0.0.0.0:4000/geekeries/2019/12/06/Hello-World-From-Jekyll-Pi-Pad.html" rel="alternate" type="text/html" title="Hello, World! (From Jekyll on a Pi controlled locally by an Ipad)" /><published>2019-12-06T11:29:39+00:00</published><updated>2019-12-06T11:29:39+00:00</updated><id>http://0.0.0.0:4000/geekeries/2019/12/06/Hello-World-From-Jekyll-Pi-Pad</id><content type="html" xml:base="http://0.0.0.0:4000/geekeries/2019/12/06/Hello-World-From-Jekyll-Pi-Pad.html">&lt;p&gt;Et voilà! It’s live! 😅&lt;/p&gt;
+
+&lt;p&gt;It’s been a small struggle but I finally managed to complete the workflow I had in mind to produce this first post:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Control a Raspian-powered Raspberry Pi 4 from an Ipad over SSH over USB-C
+- Run Jekyll on the Pi to generate and serve this static website
+- Run samba file-sharing from the Pi to expose the website files over the network and access them from the Ipad native apps
+- Edit the files from Textastic or any other app on the Ipad
+- Access the local preview of the website served locally by the Pi from the Ipad browser
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;It might seem complex, but when everything has been setup, it’s butter-smooth!&lt;/p&gt;
+
+&lt;p&gt;The Ipad is lightning-fast, the Pi always available (connected over USB-C, it does not need an internet connection), and the whole setup is super portable.&lt;/p&gt;
+
+&lt;p&gt;I know… One would think that the ordeal could be easily avoided if everything was running on a Macbook, Microsoft Surface or anything with a desktop grade OS. Fair enough, one would be right!&lt;/p&gt;
+
+&lt;p&gt;Call me masochist but I beleve that overcoming the  limitations presented by the Ipad and Pi and come up with something that works is interesting enough to justify the oddity of the setup: after all, it’s when facing adversity that creativity is fueled! 
+And to be frank, it’s actually stimulating and focusing to work from IpadOS.&lt;/p&gt;
+
+&lt;p&gt;Let me know if you would a tutorial on the setup.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;Next steps:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Assess alternatives to Textastic&lt;/li&gt;
+  &lt;li&gt;Add version control / Working Copy&lt;/li&gt;
+  &lt;li&gt;Explore IOS shortcut to create new posts / control Jekyll&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;/Images/HelloWorld.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Et voilà! It’s live! 😅</summary></entry></feed>
