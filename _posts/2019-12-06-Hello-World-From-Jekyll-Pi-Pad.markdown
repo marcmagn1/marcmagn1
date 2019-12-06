@@ -35,3 +35,6 @@ Next steps:
 ---
 ![Publishing setup](/marcmagn1/assets/publishing_setup.png)
 
+![Hardware](/marcmagn1/assets/hardware.png)
+
+
